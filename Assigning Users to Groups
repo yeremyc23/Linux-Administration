@@ -1,4 +1,7 @@
 # This Script will allow you to assign individual users to a group.
 
 
-$ sudo usermod -a -G Admin Claire.Wallace
+$ sudo usermod -G Admin Claire.Wallace
+
+
+# This command will add Claire.Wallace to the admin folder.
