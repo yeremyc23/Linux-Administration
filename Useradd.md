@@ -1,7 +1,7 @@
 # Linux-Script
 Scripting for Servers
 
-yeremy@yeru:~$ vi useradd.sh
+vi useradd.sh
 #!/bin/bash
 
 for i in $(cat /home/yeremy/UserNamesLvl1.txt ); do
