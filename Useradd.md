@@ -1,4 +1,4 @@
-# Linux-Scripting
+# Linux-Script
 Scripting for Servers
 
 yeremy@yeru:~$ vi useradd.sh
