@@ -1,0 +1,31 @@
+Accomplishments 
+ 
+Week ending 9/7 
+ 
+	Accomplishment – Downloaded VMS onto flash drive ubuntu and CentOS 
+	Challenge – Getting license and getting VM to run, had to use oracle VM 
+ 
+Week ending 9/14 
+ 
+	Accomplishment - Got server running, setup user and password to run, started playing around with grep  
+	Challenge - getting some commands to run due to privileges, learning commands 
+ 
+Week ending 9/21  
+ 
+	Accomplishment - attempting to start with user management assignment 
+	Challenge – using sudo Awk and grep commands to navigate and view around. 
+ 
+Week ending 9/28  
+ 
+	Accomplishment - Was able to search with grep and awk. Testing with adding users, creating groups
+	Challenge – Working with script to read users and changing default shells
+ 
+Week ending 10/5
+ 
+	Accomplishment - Improved on searching for files with sed and awk
+    Challenge – Learning certain ways to search with awk
+ 
+Week ending 10/12
+ 
+	Accomplishment - Installed programs on the server
+    Challenge – Changing the boot settings and setting up minimal running apps 
