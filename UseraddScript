@@ -1,0 +1,12 @@
+#This is the script to add new users from a list
+#Each user receives a default password
+
+#!/bin/bash
+for newuser in $( cat UserNamesLvl2.txt ); do
+    useradd $newuser
+        echo "Welcome $newuser !"
+            echo "password" | chpasswd
+                echo "Password has been creater for $newuser !"
+done
+
+#This script will add a new user
