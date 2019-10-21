@@ -1,0 +1,23 @@
+#These are some Sed and Awk commands I practiced on my sever in class.
+
+1. Change Jon to Jonathan
+ code- sed -e 's/Jon/Jonathan/g' Databook
+
+2. Print lines 5 through 10
+ code- sed -n -e '5,10p' Databook
+ 
+3. Delete lines containing a specific word
+ code- sed -e '/word/d' Databook
+
+Awk--
+
+1. Print a specific persons phone number
+ code- awk -F: '/Dan/{print $2}' awkdata  
+ 
+2. Print names starting with C or E
+ code- awk  '$1~/^(C|E)/{print $1}' awkdata
+ 
+3. Print all the names in the 168 area code
+ code- awk '/(168)/{print $1}' awkdata
+ 
+ #You will need the datebook and lab3.data files!
