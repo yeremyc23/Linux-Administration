@@ -9,4 +9,4 @@ for newuser in $( cat UserNamesLvl2.txt ); do
                 echo "Password has been creater for $newuser !"
 done
 
-#This script will add a new user
+#This script will add a new user with the defualt password as "password"
