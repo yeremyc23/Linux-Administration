@@ -1,0 +1,7 @@
+-Write a script to backup your Firewall/iptables
+#!/bin/bash
+
+#This will backup your firewall setup to a text file
+
+iptables-save > Firewallbackup.txt
+
