@@ -28,4 +28,39 @@ Week ending 10/5
 Week ending 10/12
  
 	Accomplishment - Installed programs on the server
-    Challenge – Changing the boot settings and setting up minimal running apps 
+   	Challenge – Changing the boot settings and setting up minimal running apps
+ 
+Week ending 10/19
+ 
+	Accomplishment - Created a script to dump network info into a text file	
+    	Challenge – Configuring firewall settings of the server
+ 
+Week ending 10/26
+ 
+	Accomplishment - Was able to successfully write a script and adjust some firewall settings
+    	Challenge – Working on setting up firewalls, configuring and troubleshooting firewall settings
+ 
+Week ending 11/2
+ 
+	Accomplishment - Was able to successfully write a script and adjust some firewall settings
+    	Challenge – Ran into issues configuring and running scripts to adjust firewall settings, will continue to do more research
+ 
+Week ending 11/9
+ 
+	Accomplishment - Completed networking assignment and uploaded documentation to GitHub.
+    	Challenge – Continuing to to write scripts for security and troubleshooting on Ubuntu server
+ 
+Week ending 11/16
+ 
+	Accomplishment - Was able to finish Security assignments! Touched up documentation for server and added more information
+    	Challenge – Still working on some scripts to make sure it’s working on both servers. Ran into some repository issues, but still troubleshooting & testing
+ 
+Week ending 11/23
+ 
+	Accomplishment - Was watching and working with some of the splunk material, was able to run lynis on server.
+    	Challenge – Ran into some issues with daemons on attempting to configure settings
+ 
+Week ending 11/30
+ 
+	Accomplishment - Turned in all my assignments, Working on final presentation, made adjustments to portfolio and Github. Was able to finish my accomplishments
+    	Challenge – Working on my server documentation and images to present. 
