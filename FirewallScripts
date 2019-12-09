@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#This script will allow port 80 and 8080, the third line will redirect port 80 to 8080
+
 iptables -A INPUT -i eth0 -p tcp --dport 80 -j ACCEPT
 
 iptables -A INPUT -i eth0 -p tcp --dport 8080 -j ACCEPT
